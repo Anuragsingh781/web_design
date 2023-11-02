@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+
+  nav {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 10px 0;
+  }
+
+  nav a {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #333;
+  }
+
+  section {
+    padding: 20px;
+  }
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Your Name</h1>
+  <p>Highlighting My Strengths and Interests</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#skills">Skills</a>
+  <a href="#interests">Interests</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>Write a brief introduction about yourself and your background here.</p>
+</section>
+
+<section id="skills">
+  <h2>My Skills</h2>
+  <p>List your key strengths and skills here, emphasizing your expertise.</p>
+</section>
+
+<section id="interests">
+  <h2>My Interests</h2>
+  <p>Discuss your interests and passions, showcasing what drives you.</p>
+</section>
+
+<section id="contact">
+  <h2>Contact Me</h2>
+  <p>Add a simple contact form or your contact information here for visitors to reach out to you.</p>
+</section>
+
+<footer>
+  <p>&copy; 2023 Your Name. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
